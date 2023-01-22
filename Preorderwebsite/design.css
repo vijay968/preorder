@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.outer-box{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to top right,#B5D5C5,#ADA2FF);
+}
+.inner-box{
+    width: 237px;
+    margin: 0 auto; 
+    position: relative;
+    top: 22%;
+    background-color: white;
+    border-radius: 8px;
+   padding: 17px 10px;
+}
+p{
+    padding: 2px;
+}
+br{
+    padding: 2px;
+}
+label{
+    padding: 2px;
+}
